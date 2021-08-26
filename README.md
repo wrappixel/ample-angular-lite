@@ -83,7 +83,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/" rel="nofollow">https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/ample-angular-dashboard-free/" rel="nofollow">
@@ -113,7 +113,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 </a>
 <p>
    Checkout our premium version of Ample Angular 12 Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/angular-admin-templates/ampleadmin-angular/main/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/angular/ample-angular/main/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
