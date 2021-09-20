@@ -1,7 +1,7 @@
-<!-- # xtreme-admin-angular 11, 10, 9, 8 and 7 lite -->
+<!-- # xtreme-admin-angular 12, 11, 10, 9, 8 and 7 lite -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/">Ample Angular 11 Admin Lite</a>
+  <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/">Ample Angular 12 Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -83,7 +83,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/" rel="nofollow">https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/ample-angular-dashboard-free/" rel="nofollow">
@@ -98,7 +98,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -112,8 +112,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg" />
 </a>
 <p>
-   Checkout our premium version of Ample Angular 11 Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/angular-admin-templates/ampleadmin-angular/main/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
+   Checkout our premium version of Ample Angular 12 Admin for lots more features and ready to use page templates.<br>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/angular/ample-angular/main/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
