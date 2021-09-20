@@ -64,15 +64,15 @@ $card-alt: #e4e9ef;
 // Mixin settings
 // ======================================================
 %square {
-    border-radius: 0px;
+  border-radius: 0px;
 }
 
 %rotate45 {
-    transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
 }
 
 // ======================================================
@@ -104,19 +104,19 @@ $primary: #7460ee !default;
 $text-muted: $gray-500 !default;
 
 $colors: (
-    "blue": $blue,
-    "indigo": $indigo,
-    "purple": $purple,
-    "pink": $pink,
-    "red": $red,
-    "orange": $orange,
-    "yellow": $yellow,
-    "green": $green,
-    "teal": $teal,
-    "cyan": $cyan,
-    "white": $white,
-    "gray": $gray-600,
-    "gray-dark": $gray-800,
+  "blue": $blue,
+  "indigo": $indigo,
+  "purple": $purple,
+  "pink": $pink,
+  "red": $red,
+  "orange": $orange,
+  "yellow": $yellow,
+  "green": $green,
+  "teal": $teal,
+  "cyan": $cyan,
+  "white": $white,
+  "gray": $gray-600,
+  "gray-dark": $gray-800,
 );
 
 $primary: $blue !default;
@@ -133,21 +133,21 @@ $orange: $orange !default;
 $theme-colors: () !default;
 
 $theme-colors: map-merge(
-    (
-        "primary": #707cd2,
-        "secondary": $gray-600,
-        "success": $green,
-        "info": $info,
-        "warning": #ffc36d,
-        "danger": $red,
-        "light": $gray-100,
-        "dark": $gray-800,
-        "cyan": #4fc3f7,
-        "orange": #ffc36d,
-        "purple": #707cd2,
-        "inverse": #4c5667,
-    ),
-    $theme-colors
+  (
+    "primary": #707cd2,
+    "secondary": $gray-600,
+    "success": $green,
+    "info": $info,
+    "warning": #ffc36d,
+    "danger": $red,
+    "light": $gray-100,
+    "dark": $gray-800,
+    "cyan": #4fc3f7,
+    "orange": #ffc36d,
+    "purple": #707cd2,
+    "inverse": #4c5667,
+  ),
+  $theme-colors
 );
 
 // ======================================================
@@ -242,7 +242,7 @@ $dropdown-divider-bg: $gray-100;
 // ======================================================
 $btn-secondary-border: $gray-300;
 $btn-hover-box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1),
-    0 3px 6px rgba(0, 0, 0, 0.08);
+  0 3px 6px rgba(0, 0, 0, 0.08);
 $btn-focus-box-shadow: $btn-hover-box-shadow !default;
 $btn-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 
@@ -310,11 +310,11 @@ $nav-tabs-link-active-bg: $white !default;
 // Grid breakpoints
 // ======================================================
 $grid-breakpoints: (
-    xs: 0,
-    sm: 576px,
-    md: 768px,
-    lg: 992px,
-    xl: 1600px,
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1600px,
 ) !default;
 
 // ======================================================
