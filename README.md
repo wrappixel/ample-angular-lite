@@ -1,7 +1,7 @@
 <!-- # xtreme-admin-angular 12, 11, 10, 9, 8 and 7 lite -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/">Ample Angular 12 Admin Lite</a>
+  <a href="https://wrappixel.com/demos/free-admin-templates/ample-angular-lite/angular/">Ample Angular 13 Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -112,7 +112,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg" />
 </a>
 <p>
-   Checkout our premium version of Ample Angular 12 Admin for lots more features and ready to use page templates.<br>
+   Checkout our premium version of Ample Angular 13 Admin for lots more features and ready to use page templates.<br>
    <a href="https://demos.wrappixel.com/premium-admin-templates/angular/ample-angular/main/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
 </p>
 
