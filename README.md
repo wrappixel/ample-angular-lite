@@ -1,4 +1,4 @@
-# <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard">Ample Angular Free</a>
+# <a href="https://ample-angular-free.netlify.app/dashboard">Ample Angular Free</a>
 Ample Angular Admin Dashboard 
 
 <!-- Main image of Template -->
@@ -19,10 +19,10 @@ Ample Angular Admin Dashboard
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/angular/dashboard">Live Preview</a>
+    <a href="https://ample-angular-free.netlify.app/dashboard">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/landingpage/index.html">Live Preview</a>
+  <a href="https://ample-angular-main.netlify.app/dashboard/dashboard1">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Ample Angular Admin Dashboard
 </a>
 <p>
   Checkout our premium version of Ample Angular Admin Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/angular/ample-angular-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
+  <a href="https://ample-angular-main.netlify.app/dashboard/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-admin-angular/">Download</a>
 </p>
 
 <!-- Versions of Template -->
