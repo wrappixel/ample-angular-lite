@@ -1,5 +1,5 @@
 // Sidebar
-$sidebar-link-padding: 14px 15px;
+$sidebar-link-padding: 10px 12px;
 $sidebar-icon-size: 18px;
 $sidebar-first-level-padding: 0 0 10px 0;
 $sidebar-first-level-link-padding: 10px 15px;
@@ -28,7 +28,6 @@ sidebar navigation
 .sidebar-nav {
   ul {
     .sidebar-item {
-      width: $sidebar-width-full;
       .sidebar-link {
         color: $sidebar-text;
         padding: $sidebar-link-padding;
@@ -36,10 +35,11 @@ sidebar navigation
         white-space: nowrap;
         align-items: center;
         line-height: 25px;
-        opacity: 0.6;
+        gap: 14px;
+        border-radius: 6px;
+        margin: 5px 0;
         i {
           font-style: normal;
-          width: 35px;
           line-height: 25px;
           font-size: $sidebar-icon-size;
           color: $sidebar-icons;
@@ -49,15 +49,17 @@ sidebar navigation
         }
         &.active,
         &:hover {
-          opacity: 1;
           .feather {
             color: $white;
           }
         }
       }
       &.active > .sidebar-link {
-        /*background: rgba(0, 0, 0, 0.04);*/
-        opacity: 1;
+        background: $danger;
+        color: $white !important;
+        i {
+          color: $white !important;
+        }
       }
     }
   }
@@ -69,7 +71,7 @@ sidebar navigation
 .sidebar-nav {
   ul {
     margin: 0px;
-    padding: 0px;
+    padding: 0 15px;
     li {
       list-style: none;
     }

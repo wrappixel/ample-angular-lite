@@ -33,8 +33,8 @@ $topbar-navbrand-padding: 0 10px 0 10px;
 $sidebar: $theme-light;
 $sidebar-text: #fff;
 $sidebar-icons: #fff;
-$sidebar-text-dark: #54667a;
-$sidebar-icons-dark: #54667a;
+$sidebar-text-dark: #212529;
+$sidebar-icons-dark: #212529;
 
 $sidebar-width-full: 250px;
 $sidebar-width-mini: 65px;
@@ -210,7 +210,7 @@ $display-font-sizes: (
 $card-spacer-y: 1.57rem !default;
 $card-spacer-x: 1.57rem !default;
 $card-border-width: 0px !default;
-$card-border-radius: 0 !default;
+$card-border-radius: 6px !default;
 $card-border-color: transparent !default;
 $card-columns-margin: 20px !default;
 $card-bg: $white;
@@ -219,9 +219,9 @@ $card-bg: $white;
 // Buttons
 // 
 $btn-secondary-border: $gray-300;
-$btn-border-radius: 4px !default;
-$btn-border-radius-sm: 4px !default;
-$btn-border-radius-lg: 4px !default;
+$btn-border-radius: 6px !default;
+$btn-border-radius-sm: 6px !default;
+$btn-border-radius-lg: 6px !default;
 $btn-box-shadow: none !default;
 $btn-focus-box-shadow: none !default;
 $btn-close-focus-shadow:     none !default;
@@ -272,6 +272,7 @@ $dropdown-item-padding-y: 0.65rem !default;
 $dropdown-border-color: $gray-200;
 $dropdown-divider-bg: $gray-100;
 $dropdown-bg: $white;
+$dropdown-border-radius: 6px !default;
 
 // 
 // Progressbars
